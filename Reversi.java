@@ -1,11 +1,4 @@
-package reversi;
-
-/*課題
- * それぞれの関数の効率を上げる（同じループで回せるものは同じ中に入れてループ）
- * ヒントつけれたらいいな
- * androidアプリにする
- * αβ法に不備があるかも？（手を進めたときにyomiの値が悪くなっている）
- */
+﻿package reversi;
 
 import java.applet.Applet;
 import java.applet.AudioClip;
